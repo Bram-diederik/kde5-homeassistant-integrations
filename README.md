@@ -39,7 +39,7 @@ now copy the ssh key to the designated pc with ssh
 /usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
 of a basic regular expression is not portable; it is ignored
 /usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
-daft@doorman's password: 
+user@server's password: 
 
 Number of key(s) added: 1
 
