@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Bram Diederik",
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Add a webpage with out any controls on your desktop. used for home asistant",
+        "Icon": "applications-internet",
+        "Id": "org.kde.plasma.hass",
+        "License": "GPL-2.0+",
+        "Name": "Hass Web browser",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.0.1",
+        "Website": "https://github.com/Bram-diederik/kde5-homeassistant-integrations"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-StandAloneApp": true
+}
