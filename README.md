@@ -1,3 +1,8 @@
+If you have kde(5) and home assistant you can make nice widgets. 
+
+![Alt text](https://github.com/Bram-diederik/kde5-homeassistant-integrations/blob/main/images/desktop.png?raw=true "a title")
+
+
 SSH key howto
 
 the integration requires ssh with out a password. 
